@@ -15,6 +15,6 @@ Apache Flink：特性、概念、组件栈、架构及原理分析   http://shiy
 
 Together with each chapter there is aslo a set of lecture slides that we use for teaching Stanford CS246: Mining Massive Datasets course. Note that the slides do not necessarily cover all the material convered in the corresponding chapters.
 # Awesome links
-*[Awesome Courses]https://github.com/prakhar1989/awesome-courses
-汇总了公开课资源，涉及编程，机器学习，操作系统等
-* [Awesome Machine Learning] https://github.com/josephmisiti/awesome-machine-learning
+* [Awesome Courses](https://github.com/prakhar1989/awesome-courses)汇总了公开课资源，涉及编程，机器学习，操作系统等
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) 不只是prthon
+* [成为好的程序员](https://github.com/stanzhai/be-a-professional-programmer) 博客，资料等
