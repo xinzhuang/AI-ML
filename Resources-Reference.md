@@ -16,14 +16,14 @@ Apache Flink：特性、概念、组件栈、架构及原理分析   http://shiy
 Together with each chapter there is aslo a set of lecture slides that we use for teaching Stanford CS246: Mining Massive Datasets course. Note that the slides do not necessarily cover all the material convered in the corresponding chapters.
 
 ## Apache Spark
-* [offical Documents]http://spark.apache.org/ Examples, APIs
-* [Aewsome Spark]https://github.com/awesome-spark/awesome-spark 包括一些常用库，学习资源等
-* [Spark and Scikit Learning]https://github.com/databricks/spark-sklearn 对Spark进行封装，使得可以方便调用，进行机器学习
-* [Spark Notebook]https://github.com/spark-notebook/spark-notebook 使用Scala在Notebook上编程，得到广泛使用
+* [offical Documents](http://spark.apache.org/) Examples, APIs
+* [Aewsome Spark](https://github.com/awesome-spark/awesome-spark) 包括一些常用库，学习资源等
+* [Spark and Scikit Learning](https://github.com/databricks/spark-sklearn) 对Spark进行封装，使得可以方便调用，进行机器学习
+* [Spark Notebook](https://github.com/spark-notebook/spark-notebook) 使用Scala在Notebook上编程，得到广泛使用
 
 ## Programming in Scala
-* [Offical Documnets]http://docs.scala-lang.org/ 包括教程，*代码规范*，APIs，书籍等
-* [Effective Scala]http://twitter.github.io/effectivescala/index-cn.html 由twitter维护，常见使用技巧，代码规范等
+* [Offical Documnets](http://docs.scala-lang.org/ )包括教程，*代码规范*，APIs，书籍等
+* [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html) 由twitter维护，常见使用技巧，代码规范等
 
 ## Awesome links
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses)汇总了公开课资源，涉及编程，机器学习，操作系统等
