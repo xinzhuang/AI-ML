@@ -9,3 +9,12 @@ Spark，Flink等，
 Apache Flink：特性、概念、组件栈、架构及原理分析   http://shiyanjun.cn/archives/1508.html
 ## 2 大数据框架对比：Hadoop、Storm、Samza、Spark和Flink 来自infoQ http://www.infoq.com/cn/articles/hadoop-storm-samza-spark-flink/
 ## 3 新一代大数据处理引擎 Apache Flink 来自IBM Blog https://www.ibm.com/developerworks/cn/opensource/os-cn-apache-flink/
+# Books
+## 1 MIT [Mining of Massive Datasets]http://www.mmds.org/#ver21  
+   There are three new chapters, on mining large graphs, dimensionality reduction, and machine learning. There is also a revised Chapter 2 that treats map-reduce programming in a manner closer to how it is used in practice.
+
+Together with each chapter there is aslo a set of lecture slides that we use for teaching Stanford CS246: Mining Massive Datasets course. Note that the slides do not necessarily cover all the material convered in the corresponding chapters.
+# Awesome links
+*[Awesome Courses]https://github.com/prakhar1989/awesome-courses
+汇总了公开课资源，涉及编程，机器学习，操作系统等
+* [Awesome Machine Learning] https://github.com/josephmisiti/awesome-machine-learning
