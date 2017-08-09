@@ -29,3 +29,9 @@ Together with each chapter there is aslo a set of lecture slides that we use for
 * [Awesome Courses](https://github.com/prakhar1989/awesome-courses)汇总了公开课资源，涉及编程，机器学习，操作系统等
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) 不只是prthon
 * [成为好的程序员](https://github.com/stanzhai/be-a-professional-programmer) 博客，资料等
+
+## 开发环境
+作为一个软件开发者，配置顺手的开发环境很重要，可以提高工作效率。
+Scala的开发环境【Intellij IDEA + Scala + Spark + Hadoop】
+[IntelliJ IDEA 教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial) 一位挺有心的开发者，而且做了自己的[导航网站](http://www.gitnavi.com/)，有自己的[技术博客](http://www.youmeek.com/again/) 专注的力量,值得学习。
+
