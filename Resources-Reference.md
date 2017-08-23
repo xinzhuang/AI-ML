@@ -35,3 +35,6 @@ Together with each chapter there is aslo a set of lecture slides that we use for
 Scala的开发环境【Intellij IDEA + Scala + Spark + Hadoop】
 [IntelliJ IDEA 教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial) 一位挺有心的开发者，而且做了自己的[导航网站](http://www.gitnavi.com/)，有自己的[技术博客](http://www.youmeek.com/again/) 专注的力量,值得学习。
 
+## 推荐系统列表
+[资源列表](https://github.com/grahamjenson/list_of_recommender_systems)
+
