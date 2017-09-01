@@ -38,3 +38,12 @@ Scala的开发环境【Intellij IDEA + Scala + Spark + Hadoop】
 ## 推荐系统列表
 [资源列表](https://github.com/grahamjenson/list_of_recommender_systems)
 
+## 技术书籍下载网站
+1 [English Books](http://www.foxebook.net) 很多优秀的英文原版书 数据分析，机器学习
+
+
+## 专题汇总
+ 人们是在三维空间中生活的，行为跟时间，位置紧密相关。
+ 在机器学习中，涵盖时间序列的数据非常常见，因此可以进行专门学习。
+ [一个主题网站 时间序列处理python库](http://pythondata.com/about/)
+
