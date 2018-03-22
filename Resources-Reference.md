@@ -30,6 +30,10 @@ Together with each chapter there is aslo a set of lecture slides that we use for
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) 不只是prthon
 * [成为好的程序员](https://github.com/stanzhai/be-a-professional-programmer) 博客，资料等
 
+## Data Visualization 
+*[tools](https://lisacharlotterost.github.io/2016/05/17/one-chart-code/)
+*[python tools](http://pbpython.com/visualization-tools-1.html)
+
 ## 开发环境
 作为一个软件开发者，配置顺手的开发环境很重要，可以提高工作效率。
 Scala的开发环境【Intellij IDEA + Scala + Spark + Hadoop】
