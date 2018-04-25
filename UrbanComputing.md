@@ -18,3 +18,9 @@
  
 
 # 位置数据
+
+
+# 行业发展
+京东城市，由郑宇博士负责，[官网](http://icity.jd.com/index.html)
+微软亚洲研究院 [官网](https://www.microsoft.com/en-us/research/project/%E5%9F%8E%E5%B8%82%E8%AE%A1%E7%AE%97/)
+
